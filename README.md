@@ -1,3 +1,5 @@
+[![Build Status](https://jim-lane.visualstudio.com/DevOpsDemo1/_apis/build/status/Unit%20Test%201)](https://jim-lane.visualstudio.com/DevOpsDemo1/_build/latest?definitionId=12)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
